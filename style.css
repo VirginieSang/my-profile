@@ -1,0 +1,119 @@
+div {
+	padding: 30px;
+	margin: 100px;
+	background: white;
+	border-radius: 10px ;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.6);
+
+} 
+
+@media (max-width:540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+@media (max-width:320px) {
+  .container {
+    width: 170px;
+  }
+}
+
+a:hover {
+	color : black;
+	text-decoration: none;
+	text-align: center;
+}
+
+
+a{
+		color: #e88c5d;
+		font-size: 22px; 
+		font-weight : bold;
+		text-align: center;
+		text-decoration: none;
+		
+
+}
+.container {
+	width: 700px; 
+  margin: 40px auto;
+}
+
+	.btn-rose {
+		background-color: #e88c5d;
+		color:white;
+		padding : 10px 20px;
+		border-radius: 5px;
+		text-align: center;
+
+
+
+	} 
+
+	.centrer {
+		text-align: center;
+	}
+
+
+	.list-inline {
+
+		list-style: none;
+		margin-left: auto;
+		margin-right: auto; 
+		width: 6em; 
+		padding-left: 9px; 
+	}
+	.list-inline > li {
+		display: inline;
+		font-size: 20px;
+		margin-left: auto;
+		margin-right: auto; 
+	}
+
+	.fab fa-twitter {
+		text-align: center ;
+	}
+
+.photoprofile {
+		border-radius:50%;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+}
+
+
+
+h1{
+	color: #6a0000;
+	font-family: 'Indie Flower';
+	font-size:40px ;
+	font-weight: bolder;
+	text-align: center;
+}
+h2{
+	font-family: Charmonman;
+	font-size:22px;
+	letter-spacing: 2px;
+	color: #be3737;
+	text-align: center;
+}
+p{
+	font-size: 17px ; 
+	font-family: 'Mali', cursive;
+	color: #76b39d; 
+	text-align: center;
+}
+body{
+	background-color: #f1fff1
+}
+
+{image-rendering: small
+
+padding: 30px;                             
+border-radius: 4px;                        
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    }
+
+
+
+
